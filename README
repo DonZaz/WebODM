@@ -1,0 +1,6 @@
+echo "# WideStreetAI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:GeoEngTechEL/WideStreetAI.git
+git push -u origin master
