@@ -25,7 +25,6 @@ A free, user-friendly, extendable application and [API] for drone image processi
 
 ![Alt text](https://user-images.githubusercontent.com/1951843/28586405-af18e8cc-7141-11e7-9853-a7feca7c9c6b.gif)
 
-![Alt text](/screenshots/pointcloud.png?raw=true "3D Display")
 
 
 ## Getting Started
