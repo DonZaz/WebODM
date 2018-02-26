@@ -1,6 +1,6 @@
-![image]https://avatars3.githubusercontent.com/u/26305653?s=460&v=4
 
-A free, user-friendly, extendable application and [API] for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It uses [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) for processing and (https://github.com/OpenDroneMap/WebODM)
+
+A free, user-friendly, extendable application and [API] for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It uses [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) for processing and WebOdm
 
 
 ![image](https://user-images.githubusercontent.com/1951843/33631371-5c55cc2c-d9d8-11e7-8609-b9032d4bbbb6.png)
